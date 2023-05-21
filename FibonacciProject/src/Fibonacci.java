@@ -2,7 +2,7 @@
  * Software Development II CEN-4025C *Assignment 2 *Eclipse ide Version: 2023-03
  * *Build id: 20230309-1520
  * 
- * @author Richard
+ * @author RTL
  **/
 public class Fibonacci {
     public static int fibonacci(int n) {
